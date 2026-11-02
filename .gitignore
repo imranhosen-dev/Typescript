@@ -29,6 +29,7 @@ pnpm-debug.log*
 
 # JetBrains IDE
 .idea/
+.idea/*
 
 # TypeScript build cache
 *.tsbuildinfo
