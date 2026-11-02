@@ -1,1 +1,2 @@
-console.log('Happy developing ✨')
+import "./basic-type/index.js"
+import "./advanced-type/index.js"
