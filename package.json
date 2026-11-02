@@ -1,0 +1,29 @@
+{
+  "name": "typescript-fundamentals",
+  "version": "1.0.0",
+  "description": "A comprehensive TypeScript 7 learning repository covering fundamentals, advanced concepts, practical examples, and exercises.",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/main.ts",
+    "start": "tsx src/main.ts",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "clean": "rm -rf dist"
+  },
+  "keywords": [
+    "typescript",
+    "typescript-7",
+    "typescript-fundamentals",
+    "typescript-learning",
+    "typescript-examples",
+    "typescript-tutorial",
+    "typescript-practice"
+  ],
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}

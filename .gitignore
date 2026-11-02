@@ -1,0 +1,38 @@
+
+# Dependencies
+/node_modules
+
+# Build output
+/dist
+/out-tsc
+/tmp
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Package manager
+.pnp
+.pnp.js
+
+# Editor settings
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# JetBrains IDE
+.idea/
+
+# TypeScript build cache
+*.tsbuildinfo
+
+# Operating system
+.DS_Store
+Thumbs.db
