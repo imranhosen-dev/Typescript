@@ -27,3 +27,4 @@ const concatName = (firstName: string, lastName?: string) => {
 };
 
 console.log(concatName("imran"));
+

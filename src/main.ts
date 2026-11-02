@@ -1,2 +1,2 @@
-import "./basic-type/index.js"
-import "./advanced-type/index.js"
+import "./concept/basic.js"
+import "./concept/union.js"
