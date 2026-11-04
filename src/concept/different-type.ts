@@ -17,5 +17,7 @@ const something: unknown = 'programming is good';
 // something.length // this is wrong becuase unknown not sure this value
 
 // core type 
+let someValue: unknown;
+const num: number = 333;
 
-
+someValue = num; // share value
