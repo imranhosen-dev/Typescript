@@ -15,3 +15,7 @@ x = 222
 
 const something: unknown = 'programming is good';
 // something.length // this is wrong becuase unknown not sure this value
+
+// core type 
+
+
