@@ -5,8 +5,6 @@
 // subtype of unit type
 // bottom type
 
-import { error } from "console";
-
 // top type
 let x: any = "hello";
 x = 222;
