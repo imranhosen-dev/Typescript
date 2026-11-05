@@ -69,4 +69,4 @@ const getError = (msg: string): never => {
 
 // asign value
 const asignValue: string = getError("abcd");
-console.log(asignValue);
+console.log(asignValue)
